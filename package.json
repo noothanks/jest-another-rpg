@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Node.js and OOP/TDD used to create command-line rpg",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noothanks/jest-another-rpg.git"
+  },
+  "author": "noothanks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noothanks/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/noothanks/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
